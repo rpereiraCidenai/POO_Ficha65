@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CIDENAI\\poo\\ex65calc\\ex65_calculadora\\ex65_calculadora.csproj",
+      "projectUniqueName": "D:\\CIDENAI\\poo\\ex65calc\\POO_Ficha65\\ex65_calculadora\\ex65_calculadora.csproj",
       "projectName": "ex65_calculadora",
-      "projectPath": "D:\\CIDENAI\\poo\\ex65calc\\ex65_calculadora\\ex65_calculadora.csproj",
+      "projectPath": "D:\\CIDENAI\\poo\\ex65calc\\POO_Ficha65\\ex65_calculadora\\ex65_calculadora.csproj",
       "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-      "outputPath": "D:\\CIDENAI\\poo\\ex65calc\\ex65_calculadora\\obj\\",
+      "outputPath": "D:\\CIDENAI\\poo\\ex65calc\\POO_Ficha65\\ex65_calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

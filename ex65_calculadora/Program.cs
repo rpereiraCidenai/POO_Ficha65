@@ -11,9 +11,7 @@ namespace CalculadoraPOO
 
             while (continuar)
             {
-                try
-                {
-                    MostrarMenu();
+                   MostrarMenu();
                     Console.Write("Digite o número da operação: ");
                     int escolha = int.Parse(Console.ReadLine());
 
@@ -26,15 +24,8 @@ namespace CalculadoraPOO
                     {
                         ExecutarOperacao(escolha, calculadora);
                     }
-                }
-                catch (FormatException)
-                {
-                    Console.WriteLine("Erro: Entrada inválida. Por favor, insira um número válido.");
-                }
-                catch (DivideByZeroException ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
+                
+            
 
                 Console.WriteLine(); // Linha em branco para separar as operações
             }

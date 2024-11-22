@@ -1,0 +1,15 @@
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\bin\Debug\net6.0\ex65_calculadora.exe
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\bin\Debug\net6.0\ex65_calculadora.deps.json
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\bin\Debug\net6.0\ex65_calculadora.runtimeconfig.json
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\bin\Debug\net6.0\ex65_calculadora.dll
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\bin\Debug\net6.0\ex65_calculadora.pdb
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\obj\Debug\net6.0\ex65_calculadora.csproj.AssemblyReference.cache
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\obj\Debug\net6.0\ex65_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\obj\Debug\net6.0\ex65_calculadora.AssemblyInfoInputs.cache
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\obj\Debug\net6.0\ex65_calculadora.AssemblyInfo.cs
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\obj\Debug\net6.0\ex65_calculadora.csproj.CoreCompileInputs.cache
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\obj\Debug\net6.0\ex65_calculadora.dll
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\obj\Debug\net6.0\refint\ex65_calculadora.dll
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\obj\Debug\net6.0\ex65_calculadora.pdb
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\obj\Debug\net6.0\ex65_calculadora.genruntimeconfig.cache
+D:\CIDENAI\poo\ex65calc\ex65_calculadora\obj\Debug\net6.0\ref\ex65_calculadora.dll
